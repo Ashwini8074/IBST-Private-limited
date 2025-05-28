@@ -56,6 +56,9 @@ Part 5: API Integration Design (Kotlin, Angular, Perl)
 
 ✅ Diagrams or pseudocode included for clarity
 
+**BONUS QUESTION**
+
+Next Best Action (NBA) systems recommend the most appropriate action for each user based on their data and interaction history. These systems are widely used in marketing, customer engagement, and e-commerce to improve personalization and maximize outcomes like conversions or customer satisfaction
 
 
 **CONCLUSION**
